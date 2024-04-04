@@ -173,7 +173,7 @@ const AgencyDetails = ({ data }: Props) => {
         <Card>
             <CardHeader>
                 <CardTitle>Agency Information</CardTitle>
-                <CardDescription>Let's create an agency for your business. You can edit agency settings later from the agency settings tab.</CardDescription>
+                <CardDescription>Lets create an agency for your business. You can edit agency settings later from the agency settings tab.</CardDescription>
             </CardHeader>
             <CardContent>
                 <Form {...form}>
